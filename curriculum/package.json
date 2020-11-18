@@ -62,7 +62,7 @@
     "prettier-package-json": "^1.6.0",
     "readdirp-walk": "^1.6.0",
     "rx": "^4.1.0",
-    "semantic-release": "^15.6.0",
+    "semantic-release": "^17.2.3",
     "tap-spec": "^5.0.0",
     "tape": "^4.9.1",
     "validator": "^10.4.0"
